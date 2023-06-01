@@ -1,2 +1,0 @@
-# Videoke-Rental-Website
-Thesis
